@@ -1,6 +1,4 @@
-# server-helpers [![Build Status](https://secure.travis-ci.org/toolkit-rack/server-helpers.png?branch=master)](http://travis-ci.org/toolkit-rack/server-helpers) ##
-
-Node.js服务器端帮助类类库
+# Node.js服务器端帮助类类库 #
 
 ## 上手指南 ##
 
@@ -12,13 +10,10 @@ Node.js服务器端帮助类类库
 	helpers.createGUID(); // 创建唯一ID
 
 ## 文档 ##
-_(Coming soon)_
 
 ## 示例 ##
-_(Coming soon)_
 
 ## 版本历史 ##
-_(Nothing yet)_
 
 ## 许可 ##
 
